@@ -1,7 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, Welcome to [Robert Vásquez][website] :point_left: Here
 
----
-
 <!--Redes Sociales e Imagen Principal-->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/robertandres14?color=%231DA1F2&label=robert-ds&logo=twitter&style=for-the-badge)](https://twitter.com/robertandres14)
@@ -18,8 +16,6 @@
 - Self-taught and researcher of new technologies
 - Aware of the impact that apps have on people's lives
 - Little things make big changes
-
----
 
 <!--links-->
 
