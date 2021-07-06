@@ -10,7 +10,7 @@
 
 <!--Acerca de mi-->
 
-## Systems Engineer, Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" /> And Android Developer
+## Systems Engineer, Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" /> And Mobile Developer
 
 - Passionate about web technologies
 - Self-taught and researcher of new technologies
