@@ -1,16 +1,22 @@
-### Hi there 👋
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, Welcome to [Robert Vásquez][website] :point_left: Here
 
-<!--
-**robert-ds/robert-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!--Redes Sociales e Imagen Principal-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/robertandres14?color=%231DA1F2&label=robert-ds&logo=twitter&style=for-the-badge)](https://twitter.com/robertandres14)
+
+[<img align="center" src="https://s2.gifyu.com/images/programando.gif" />][website]
+
+---
+
+<!--Acerca de mi-->
+
+## Systems Engineer, Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" /> And Android Developer
+
+- Passionate about web technologies
+- Self-taught and researcher of new technologies
+- Aware of the impact that apps have on people's lives
+- Little things make big changes
+
+---
