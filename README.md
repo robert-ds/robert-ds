@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, Welcome to [Robert Vásquez][website]
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px" /> Hi, Welcome to [Robert Vásquez][website]
 
 <!--Redes Sociales e Imagen Principal-->
 
@@ -9,7 +9,7 @@
 
 <!--Acerca de mi-->
 
-## Systems Engineer, Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" /> And Mobile Developer
+## Systems Engineer, Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" height="30px"/> And Mobile Developer
 
 - Passionate about web technologies
 - Self-taught and researcher of new technologies
