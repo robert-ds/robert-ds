@@ -3,6 +3,8 @@
 <!--Redes Sociales e Imagen Principal-->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/robertds_?color=%231DA1F2&label=robert-ds&logo=twitter&style=for-the-badge)](https://twitter.com/robertds_)
+[![Linkedin: Robert Vásquez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-vasquez-0ba486159/)
+[![PAYPAL: Robert Vásquez](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.linkedin.com/in/robert-vasquez-0ba486159/)
 
 <!--[<img align="center" src="https://s2.gifyu.com/images/programando.gif" />][website]-->
 [<img align="center" src="https://pbs.twimg.com/profile_banners/408805792/1649865914/1500x500" />][website]
@@ -15,6 +17,19 @@
 - Self-taught and researcher of new technologies
 - Aware of the impact that apps have on people's lives
 - Little things make big changes
+
+## Technologies
+![LINUX: Robert Vásquez](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WINDOWS: Robert Vásquez](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![JAVA: Robert Vásquez](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP: Robert Vásquez](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PYTHON: Robert Vásquez](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAVASCRIPT: Robert Vásquez](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML: Robert Vásquez](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3: Robert Vásquez](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ANDROID: Robert Vásquez](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
 
 <!--links-->
 
