@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/robertds_?color=%231DA1F2&label=robert-ds&logo=twitter&style=for-the-badge)](https://twitter.com/robertds_)
 [![Linkedin: Robert Vásquez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-vasquez-0ba486159/)
-[![PAYPAL: Robert Vásquez](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.linkedin.com/in/robert-vasquez-0ba486159/)
+[![PAYPAL: Robert Vásquez](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/robertds20?country.x=VE&locale.x=es_XC)
 
 <!--[<img align="center" src="https://s2.gifyu.com/images/programando.gif" />][website]-->
 [<img align="center" src="https://pbs.twimg.com/profile_banners/408805792/1649865914/1500x500" />][website]
