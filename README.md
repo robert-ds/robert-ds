@@ -1,4 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px" /> Hi, Welcome to [Robert Vásquez][website]
+![](https://i.imgur.com/waxVImv.png)
 
 <!--Redes Sociales e Imagen Principal-->
 
@@ -12,6 +13,7 @@
 <!--Acerca de mi-->
 
 ## Systems Engineer, Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" height="30px"/> And Mobile Developer
+![](https://i.imgur.com/waxVImv.png)
 
 - Passionate about web technologies
 - Self-taught and researcher of new technologies
@@ -19,6 +21,8 @@
 - Little things make big changes
 
 ## Technologies
+![](https://i.imgur.com/waxVImv.png)
+
 ![LINUX: Robert Vásquez](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WINDOWS: Robert Vásquez](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![JAVA: Robert Vásquez](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -28,8 +32,6 @@
 ![HTML: Robert Vásquez](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3: Robert Vásquez](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ANDROID: Robert Vásquez](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
 
 <!--links-->
 
