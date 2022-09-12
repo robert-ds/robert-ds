@@ -20,14 +20,14 @@
 - Aware of the impact that apps have on people's lives
 - Little things make big changes
 
-## Tech
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30px" height="30px" /> Tech
 ![](https://i.imgur.com/waxVImv.png)
 
 ![LINUX: Robert Vásquez](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WINDOWS: Robert Vásquez](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ANDROID: Robert Vásquez](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px" height="60px"/> Coding
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"/> Coding
 ![](https://i.imgur.com/waxVImv.png)
 
 ![JAVA: Robert Vásquez](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -42,9 +42,9 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px" height="30px"/> Stats
 ![](https://i.imgur.com/waxVImv.png)
 
-[![Robert Vásquez GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-ds&show_icons=true&theme=v)](https://github.com/robert-ds/github-readme-stats)
+[![Robert Vásquez GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-ds&show_icons=true&theme=dark)](https://github.com/robert-ds/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-ds&layout=compact)](https://github.com/robert-ds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-ds&layout=compact&theme=dark)](https://github.com/robert-ds/github-readme-stats)
 
 <!--links-->
 
