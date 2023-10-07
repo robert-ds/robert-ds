@@ -1,4 +1,4 @@
-# Welcome to [Robert Vásquez](https://robert-ds.vercel.app/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"/> 
+# Welcome to [Robert Vásquez](https://robert-ds.vercel.app/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px" height="60px"/> 
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -13,7 +13,8 @@
 
 <!--Acerca de mi-->
 
-## Systems Engineer, Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" height="30px"/> And Mobile Developer
+![](https://i.imgur.com/waxVImv.png)
+## System Engineer 🏆 | FullStack Developer 💻 | DevOps 🚀
 ![](https://i.imgur.com/waxVImv.png)
 
 - Passionate about web technologies
