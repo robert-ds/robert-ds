@@ -20,21 +20,14 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="40px" height="40px" />
-
-## Tech
-
-![](https://i.imgur.com/waxVImv.png)
+## Tech <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="40px" height="40px" />
 
 ![LINUX: Robert Vásquez](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WINDOWS: Robert Vásquez](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ANDROID: Robert Vásquez](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px" height="40px"/>
 
-## Coding
-
-![](https://i.imgur.com/waxVImv.png)
+## Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px" height="40px"/> 
 
 ![JAVA: Robert Vásquez](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP: Robert Vásquez](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -45,11 +38,7 @@
 
 <!--Stad Animated-->
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="40px" height="40px"/>
-
-## Stats
-
-![](https://i.imgur.com/waxVImv.png)
+## Stats <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="40px" height="40px"/>
 
 [![Robert Vásquez GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-ds&show_icons=true&theme=dark)](https://github.com/robert-ds/github-readme-stats)
 
