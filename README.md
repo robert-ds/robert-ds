@@ -1,23 +1,20 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px" height="60px"/> 
-
-## Welcome to [Robert Vásquez](https://robert-ds.vercel.app/)
-![](https://i.imgur.com/waxVImv.png)
-
-<!--Redes Sociales e Imagen Principal-->
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/robertds_?color=%231DA1F2&label=robert-ds&logo=twitter&style=for-the-badge)](https://twitter.com/robertds_)
-[![Linkedin: Robert Vásquez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-vasquez/)
-[![PAYPAL: Robert Vásquez](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/robertds20?country.x=VE&locale.x=es_XC)
-
-<!--[<img align="center" src="https://s2.gifyu.com/images/programando.gif" />][website]-->
-[<img align="center" src="https://pbs.twimg.com/profile_banners/408805792/1685281745/1500x500" />][website]
-
-<!--Acerca de mi-->
-
 ![](https://i.imgur.com/waxVImv.png)
 ## System Engineer 🏆 | FullStack Developer 💻 | DevOps 🚀
 ![](https://i.imgur.com/waxVImv.png)
 
+<!--[<img align="center" src="https://s2.gifyu.com/images/programando.gif" />][website]-->
+[<img align="center" src="https://pbs.twimg.com/profile_banners/408805792/1685281745/1500x500" />][website]
+
+![](https://i.imgur.com/waxVImv.png)
+
+<!--Redes Sociales e Imagen Principal-->
+[![Twitter Follow](https://img.shields.io/twitter/follow/robertds_?color=%231DA1F2&label=robert-ds&logo=twitter&style=for-the-badge)](https://twitter.com/robertds_)
+[![Linkedin: Robert Vásquez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-vasquez/)
+[![PAYPAL: Robert Vásquez](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/robertds20?country.x=VE&locale.x=es_XC)
+
+![](https://i.imgur.com/waxVImv.png)
+
+<!--Acerca de mi-->
 - Passionate about web technologies
 - Self-taught and researcher of new technologies
 - Aware of the impact that apps have on people's lives
