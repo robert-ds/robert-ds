@@ -1,6 +1,4 @@
 ![](https://i.imgur.com/waxVImv.png)
-## System Engineer 🏆 | FullStack Developer 💻 | DevOps 🚀
-![](https://i.imgur.com/waxVImv.png)
 
 <!--[<img align="center" src="https://s2.gifyu.com/images/programando.gif" />][website]-->
 [<img align="center" src="https://pbs.twimg.com/profile_banners/408805792/1685281745/1500x500" />][website]
@@ -19,6 +17,8 @@
 - Self-taught and researcher of new technologies
 - Aware of the impact that apps have on people's lives
 - Little things make big changes
+
+![](https://i.imgur.com/waxVImv.png)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="40px" height="40px" />
 
